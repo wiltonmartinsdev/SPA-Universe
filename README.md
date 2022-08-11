@@ -3,6 +3,9 @@
 - Este projeto consiste em desenvolver uma aplicação SPA (Single Page Application) simples.
 - Projeto proposto pelo programa de formação [Explorer](https://www.rocketseat.com.br/explorer) da [RocketSeat](https://www.rocketseat.com.br/).
 
+## Demonstração
+<img src="assets/preview_spa.gif">
+
 
 ## Funcionalidades
 - A aplicação irá transitar em 3 rotas quando clicada e em cada rota será alterado o seu background.
