@@ -5,7 +5,7 @@
 
 
 ## Funcionalidades
-- A aplicação irá transitar em 3 rotas quando clicada.
+- A aplicação irá transitar em 3 rotas quando clicada e em cada rota será alterado o seu background.
 - Visualização em tempo real.
 
 
