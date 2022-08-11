@@ -31,6 +31,8 @@ ul {
     gap: 3.2rem;
 
     margin-left: 3.3rem;
+    
+    list-style: none;
 }
 
 li a {
