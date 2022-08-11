@@ -6,7 +6,7 @@
 
 ## Funcionalidades
 - A aplicação irá transitar em 3 rotas quando clicada.
-- Visualização em tempo real
+- Visualização em tempo real.
 
 
 ## Stacks utilizada
