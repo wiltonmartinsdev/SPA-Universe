@@ -26,7 +26,7 @@
 
 
 ## Aprendizados
-- A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há um novo aprendizado, sempre aprimorando cada vez mais o conhecimento adquerido no programa.  
+- A cada novo projeto proposto no [Explorer](https://www.rocketseat.com.br/explorer) sempre há um novo aprendizado, sempre aprimorando cada vez mais o conhecimento adquirido no programa.  
 
 - Nesse projeto aprendi sobre **Conceitos de SPA**, **Mapeamento de rotas**, **JavaScript Assíncrono**, **Promises**, **Orientação a Objetos** e **Classes**.
 
